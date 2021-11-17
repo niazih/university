@@ -23,9 +23,14 @@ To using github ( git command ):
 6 - git pull origin main/master		=> pull changed from remote repository to working DIR ( local repo).
 
 
+to push change to github ( git add ., git commit -m "comments", git push origin main).
+
+
+
+
 
 
 
 Project done by:
 hazrat bilal NIAZI
-orlando
+and orlando
